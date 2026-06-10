@@ -1,0 +1,8 @@
+{
+  "name": "Remix: android",
+  "description": "Hisobotlarni osongina kuzatib borish, rasmga olish va qiziqarli mini o\u0027yinlar maydonchasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
